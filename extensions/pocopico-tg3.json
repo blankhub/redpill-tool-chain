@@ -1,6 +1,6 @@
 {
   "id": "pocopico.tg3",
-  "url": "https://github.com/tossp/redpill-tool-chain/raw/master/extensions/pocopico-tg3.json",
+  "url": "https://raw.githubusercontent.com/blankhub/redpill-tool-chain/master/extensions/pocopico-tg3.json",
   "info": {
     "name": "tg3",
     "description": "Adds Broadcom Tigon3 Gigabit Ethernet driver Support",
@@ -9,7 +9,7 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds918p_42218": "https://github.com/pocopico/rp-ext/blob/main/tg3/releases/ds918p_42218.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/main/tg3/releases/ds918p_42218.json",
     "ds3615xs_25556": "https://github.com/pocopico/rp-ext/blob/main/tg3/releases/ds3615xs_25556.json",
     "ds3615xs_25556": "https://github.com/pocopico/rp-ext/blob/main/tg3/releases/ds3615xs_41222.json",
     "ds3615xs_25556": "https://github.com/pocopico/rp-ext/blob/main/tg3/releases/ds3615xs_42218.json",
