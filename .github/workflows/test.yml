@@ -77,7 +77,7 @@ jobs:
         run: |
           ./redpill_tool_chain.sh add https://github.com/tossp/redpill-tool-chain/raw/master/extensions/redpill-boot-wait.json
           ./redpill_tool_chain.sh add https://github.com/tossp/redpill-tool-chain/raw/master/extensions/redpill-acpid.json
-          ./redpill_tool_chain.sh add https://github.com/tossp/redpill-tool-chain/raw/master/extensions/redpill-tg3.json
+          ./redpill_tool_chain.sh add https://github.com/blankhub/redpill-tool-chain/blob/master/extensions/pocopico-tg3.json
 
       - name: 添加扩展驱动[dva3221]
         if: matrix.platform == 'dva3221'
